@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "D:\\Kerja\\pretest\\Backend\\logs\\.437df55ba00b29f5cbed33a8320ce9524ebe9ce2-audit.json",
+    "files": [
+        {
+            "date": 1685871476497,
+            "name": "D:\\Kerja\\pretest\\Backend\\logs\\app-2023-06-04.log",
+            "hash": "a856349b05875eb2ba7c64a45082f67cf0d144d7aa77c0bb035aec03f563ca88"
+        }
+    ],
+    "hashType": "sha256"
+}
